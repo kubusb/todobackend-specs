@@ -12,7 +12,7 @@
     "bluebird": "^3.0.6",
     "chai": "^3.4.1",
     "chai-as-promised": "^5.1.0",
-    "mocha": "^10.1.0",
+    "mocha": "^10.8.2",
     "mocha-jenkins-reporter": "^0.4.8",
     "superagent": "^3.7.0",
     "superagent-promise": "^1.0.3"
